@@ -505,18 +505,6 @@ There are several ways to deploy your environmental engineering portfolio:
    - Upload the website files via FTP or the hosting control panel
    - Point your domain to the hosting provider
 
-## Browser Compatibility
-
-This website is optimized for modern browsers including:
-- Chrome 70+
-- Firefox 63+
-- Safari 12+
-- Edge 79+
-- Opera 57+
-- Mobile browsers (iOS Safari, Android Chrome)
-
-For older browsers, some advanced CSS features may not display correctly, but content will remain accessible.
-
 ## License & Attribution
 
 This project is available under the MIT License. You are free to use, modify, and distribute this template for both personal and academic purposes.
